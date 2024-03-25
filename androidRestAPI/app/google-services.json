@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "646221798197",
+    "project_id": "androidrestapi-62692",
+    "storage_bucket": "androidrestapi-62692.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646221798197:android:cec8df8fe5307bc617ca7c",
+        "android_client_info": {
+          "package_name": "com.example.lab1_ph35122_dohoanglong"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX-KLlsjT2cQAbbN9AHllrjztAjWp905w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
